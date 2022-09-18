@@ -1,4 +1,3 @@
-### 
 ![Figure](https://github.com/nogibjj/airus-codespaces/blob/main/test.png)
 
 Set Up Auth
@@ -14,3 +13,5 @@ Test Out Cli
     databricks fs ls dbfs:/
     databricks jobs list --output JSON | jq
     
+    DATABRICKS_TOKEN
+
